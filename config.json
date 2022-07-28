@@ -1,0 +1,13 @@
+{
+  "Telegram": {
+  "chatId": "Chat_id",
+    "token": "CHAT_TOKEN"
+  },
+
+  "Data": {
+    "transAmount" : "10000",
+    "payTypes" : ["Tinkoff"]
+  },
+
+  "difference" : "0.05"
+}
