@@ -12,5 +12,5 @@ If you are interested in running a Telegram bot, more information can be found a
 -   **token** - token created BotFather.
 -   **transAmount** - count money of transaction.
 -   **payTypes** - pay types of exchenge coins/money.
--   **difference** - difference between the buy price and the sell price
+-   **difference** - difference between the buy price and the sell price.
 
