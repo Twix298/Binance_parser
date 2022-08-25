@@ -14,3 +14,21 @@ If you are interested in running a Telegram bot, more information can be found a
 -   **payTypes** - pay types of exchenge coins/money.
 -   **difference** - difference between the buy price and the sell price.
 
+## Getting Started
+
+Script can only be run through terminal/command prompt
+
+```shell
+# clone this repository
+$ git clone https://github.com/wasymshykh/binance-p2p-alert.git
+
+# go to directory
+$ cd binance-p2p-alert
+
+# install dependencies
+$ npm install
+
+# run the script
+$ npm start
+```
+
