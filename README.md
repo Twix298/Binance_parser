@@ -20,10 +20,10 @@ Script can only be run through terminal/command prompt
 
 ```shell
 # clone this repository
-$ git clone https://github.com/wasymshykh/binance-p2p-alert.git
+$ git clone https://github.com/Twix298/Binance_parser.git
 
 # go to directory
-$ cd binance-p2p-alert
+$ cd Binance_parser
 
 # install dependencies
 $ npm install
